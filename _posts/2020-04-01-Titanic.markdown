@@ -1,0 +1,10 @@
+---
+layout: post
+title: Titanic Machine learning problem in PYTHON.
+date: 2021-04-1 13:32:20 +0300
+description: This is the hello world of machine learning. # Add post description (optional)
+img: q.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Data-Science, Machine-Learning]
+---
+# 
