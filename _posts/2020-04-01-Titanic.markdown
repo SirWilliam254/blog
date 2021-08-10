@@ -7,4 +7,9 @@ img: q.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Data-Science, Machine-Learning]
 ---
-# 
+## April 15, 1912
+The widely considered “unsinkable” RMS Titanic met a worthy opponent "iceberg" on her maiden voyage. Due to damages sustained she took a deep dive. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
+
+While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
+
+In this challenge, it is of interest to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
