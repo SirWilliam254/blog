@@ -14,19 +14,19 @@ draw some interesting insights. This notebook goes over how we can use twitter a
 download tweets of interest autonomously and consequently act on it.
 
 The first thing we ought to do is call on the relevant packages.
-```{r}
+```r
 ######################## TWITTER SCRAPPING ###################################
 # Required packages
-library(twitteR)
-library(tidytext)
-library(dplyr)
-library(ggplot2)
-library(janeaustenr)
-library(pander)
+> library(twitteR)
+> library(tidytext)
+> library(dplyr)
+> library(ggplot2)
+> library(janeaustenr)
+> library(pander)
 ```
 ## Connecting to twitter
 For one to connect to the twitter server ,one needs to request for access by applying for a developer account. Once granted you receive the necessary keys and tokens.
-```{r}
+```r
 # connecting to twitter
 consumer_key <- "paste here"
 consumer_secret <- "paste here"
