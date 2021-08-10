@@ -19,7 +19,11 @@ social-email: # add your Email address
 
 # Disqus
 discus-identifier: Sir-William # add your discus identifier
-
+---
+layout: default
+comments: true
+# other options
+---
 # Tracker
 analytics: # Google Analytics
 
