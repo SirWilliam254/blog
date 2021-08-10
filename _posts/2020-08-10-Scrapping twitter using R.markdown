@@ -45,9 +45,9 @@ ts_twitter_df %>% select(screenName, created, text) %>% sample_n(5) %>% pander(.
 ```
 ## table showing a sample of 5 tweets 
 -----------------------------------------------------------------------
-   screenName           created                      text              
+ |  screenName    |       created     |              text              |
 ---------------- --------------------- --------------------------------
-   caashujha      2021-08-10 17:59:37        RT @IndiainArmenia:       
+ |  caashujha    |  2021-08-10 17:59:37 |      RT @IndiainArmenia:      | 
                                          Strengthening India-Georgia   
                                                ties in Sports:         
                                               Congratulations to       
@@ -55,29 +55,29 @@ ts_twitter_df %>% select(screenName, created, text) %>% sample_n(5) %>% pander(.
                                         @bajrangpunia and his Georgian 
                                                     coach…             
 
-  FingalLabour    2021-08-10 17:30:49    RT @JoeCostelloIE: It was a   
+ | FingalLabour  |  2021-08-10 17:30:49 |  RT @JoeCostelloIE: It was a   |
                                           real honour to welcome our   
                                          Gold Medallist <U+0001F947>   
                                            #KellieHarrington &amp;     
                                         Olympian Emmet Brennan home to 
                                                Dublin from #To…        
 
-   KAILASA_UN     2021-08-10 18:30:24   RT @MeditationWhy: Meditation  
+ |  KAILASA_UN   |  2021-08-10 18:30:24 | RT @MeditationWhy: Meditation  |
                                          on Darkness || NSC || 7 Jan   
                                          2008 https://t.co/m0mtufnFew  
                                          via @YouTube   #Nithyananda   
                                           #inspiration #Motivation…    
 
- FlipTheScript8   2021-08-10 17:04:33   RT @OnHerTurf: There's always  
+ |   FlipTheScript8 | 2021-08-10 17:04:33 | RT @OnHerTurf: There's always  |
                                         that one friend <U+0001F485>   
                                               #OlympicHERstory |       
                                                 #TokyoOlympics         
                                            https://t.co/hJwHuxzbRM     
 
- Satchidanand01   2021-08-10 18:52:02        RT @MinhazMerchant:       
+ |   Satchidanand01  | 2021-08-10 18:52:02 |  RT @MinhazMerchant:     |  
                                          @shivjiramgupta @IndiaToday   
                                            Britain 0 gold medals in    
                                          #Athletics at #TokyoOlympics  
                                         <U+0001F947> Australia 0 gold  
                                              medals in athletic…       
------------------------------------------------------------------------
+|-----------------------------------------------------------------------|
