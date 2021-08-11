@@ -87,6 +87,8 @@ print("% of men who survived:", rate_men)
 ```
 ### % of men who survived: 0.18890814558058924
 ## Random Forest 
+This is a supervised kind of learning algorithm. It averages the result from different decision trees i.e an ensemble of 
+decision trees. They combine multiple trees to predict the class of the dataset.
 
 ```python
 from sklearn.ensemble import RandomForestClassifier
