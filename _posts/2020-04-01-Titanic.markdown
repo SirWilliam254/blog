@@ -125,7 +125,7 @@ sns.despine()
 sns.countplot(x ='Embarked', data = train_data).set_title("Number of people embarked at each point")
 sns.despine()
 ```
-![Embarked impact on survival rate]({{site.baseurl}}/assets/img/Embarked.PNG){: .align-center}
+![NEbarked impact on survival rate]({{site.baseurl}}/assets/img/NEbarked.PNG){: .align-center}
 
 
 ```python
@@ -134,7 +134,7 @@ train_data["Embarked"] = train_data["Embarked"].fillna("S")
 sns.countplot(x ='Embarked', hue = "Survived", data = train_data).set_title("Embarked impact on Survival")
 sns.despine()
 ```
-![NEbarked impact on survival rate]({{site.baseurl}}/assets/img/NEbarked.PNG){: .align-center}
+![Embarked impact on survival rate]({{site.baseurl}}/assets/img/Embarked.PNG){: .align-center}
 
 ```python
 ### Title
@@ -196,7 +196,7 @@ sns.countplot(x ='FareBand', hue = "Survived", data = train_data).set_title("Far
 sns.despine()
 ```
 
-![Fare impact on survival rate]({{site.baseurl}}/assets/img/fare.PNG){: .align-center}
+![Fare impact on survival rate]({{site.baseurl}}/assets/img/Fare.PNG){: .align-center}
 
 ## Random Forest 
 This is a supervised kind of learning algorithm. It averages the result from different decision trees i.e an ensemble of 
