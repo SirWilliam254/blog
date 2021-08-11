@@ -97,7 +97,7 @@ We can plot the relation.
 sns.countplot(x ='Sex', hue = "Survived", data = train_data).set_title("Sex meaning in Survival")
 sns.despine()
 ```
-![Beggining of a journey, Hello World]({{site.baseurl}}/assets/img/sex.PNG)
+![Sex impact on survival rate]({{site.baseurl}}/assets/img/sex.PNG)
 
 ## Random Forest 
 This is a supervised kind of learning algorithm. It averages the result from different decision trees i.e an ensemble of 
