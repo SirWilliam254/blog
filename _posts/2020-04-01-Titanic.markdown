@@ -42,6 +42,7 @@ for dirname, _, filenames in os.walk('/kaggle/input'):
 train_data = pd.read_csv("/kaggle/input/titanic/train.csv")
 train_data.head()
 ```
+The data.head() line returns a few rows of the whole dataset
 
 | index |PassengerId | Survived | Pclass	|Name	|Sex	|Age	|SibSp	|Parch	|Ticket	|Fare	|Cabin	|Embarked|
 |------|------|----------|-----------|-------|-------|-------|-------|-------|-------|-------|--------|---------|
