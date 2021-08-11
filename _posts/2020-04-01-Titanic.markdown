@@ -125,7 +125,8 @@ sns.despine()
 sns.countplot(x ='Embarked', data = train_data).set_title("Number of people embarked at each point")
 sns.despine()
 ```
-![NEbarked impact on survival rate]({{site.baseurl}}/assets/img/NEbarked.PNG){: .align-center}
+We would like to see the number of people that boarded at each point and how many got to see the 
+light of day with respect to the point of embarking.
 
 
 ```python
@@ -134,7 +135,7 @@ train_data["Embarked"] = train_data["Embarked"].fillna("S")
 sns.countplot(x ='Embarked', hue = "Survived", data = train_data).set_title("Embarked impact on Survival")
 sns.despine()
 ```
-![Embarked impact on survival rate]({{site.baseurl}}/assets/img/Embarked.PNG){: .align-center}
+![NEbarked impact on survival rate]({{site.baseurl}}/assets/img/NEbarked.PNG){: .align-center} ![Embarked impact on survival rate]({{site.baseurl}}/assets/img/Embarked.PNG){: .align-center}
 
 ```python
 ### Title
