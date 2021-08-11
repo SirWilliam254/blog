@@ -51,6 +51,9 @@ train_data.head()
 |3	|4	|1	|1	|Futrelle, Mrs. Jacques Heath (Lily May Peel)	|female	|35.0	|1	|0	|113803|	53.1000	|C123	|S |
 |4	|5	|0	|3	|Allen, Mr. William Henry	|male	|35.0	|0	|0	|373450|	8.0500|	NaN	|S |
 
+Looking at the output for the training data we see that there is alot of Nans in the Cabin column. The rest of the data for the small 
+sample on display looks natural. We will perform more exploratory analysis on them to select features.
+
 ```python
 test_data = pd.read_csv("/kaggle/input/titanic/test.csv")
 test_data.head()
@@ -63,3 +66,5 @@ test_data.head()
 |2	|894	|2	|Myles, Mr. Thomas Francis|	male|	62.0|	0|	0|	240276|	9.6875	|NaN	|Q|
 |3	|895	|3	|Wirz, Mr. Albert	|male|	27.0|	0	|0	|315154|	8.6625|	NaN	|S|
 |4	|896	|3	|Hirvonen, Mrs. Alexander (Helga E Lindqvist)|	female|	22.0|	1|	1	|3101298|	12.2875	|NaN	|S|
+
+Just like for the training data, the test data has many Nans...the rest of the variables look natural.
