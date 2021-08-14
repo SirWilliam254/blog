@@ -35,7 +35,8 @@ access_secret <- "paste here"
 
 setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
 ```       
-### performing some sentimental analysis on `TokyoOlympics` hashtag
+### Downloading tweets with the keyword ```TokyoOlympics``` hashtag
+
 ```r
 ts_twitter <- searchTwitter("#TokyoOlympics", n = 1000, lang = "en")
 ts_twitter_df <- twListToDF(ts_twitter) #converting to a dataframe
@@ -43,7 +44,7 @@ write.csv(ts_twitter_df, file="euro.csv", row.names=FALSE)
 
 ts_twitter_df %>% select(screenName, created, text) %>% sample_n(5) %>% pander(.)
 ```
-## table showing a sample of 5 tweets 
+## table showing a sample of 5 tweets from the downloaded dataset 
 
  |  screenName     |       created     |              text                |
  |-----------------|-------------------|----------------------------------|
