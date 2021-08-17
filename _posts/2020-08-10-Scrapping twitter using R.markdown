@@ -19,9 +19,6 @@ The first thing we ought to do is call on the relevant packages.
 # Required packages
 > library(twitteR)
 > library(tidytext)
-> library(dplyr)
-> library(ggplot2)
-> library(janeaustenr)
 > library(pander)
 ```
 ## Connecting to twitter
