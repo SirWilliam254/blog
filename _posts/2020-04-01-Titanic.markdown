@@ -72,7 +72,10 @@ test_data.head()
 
 Just like for the training data, the test data has many Nans...the rest of the variables look natural.
 ## Some Exploratory analysis.
-It is of interest to see the relation with the responce variable "Survived"
+It is of interest to see the relation with the responce variable "Survived". This will help
+us see those variables that affect survival rate which will in turn aid in the modelling. Also 
+it is important as we are able to assess if there is some data leakage inorder to avoid false 
+high accuracy rates and data contamination in overall.
 
 ## Sex
 
@@ -199,6 +202,9 @@ sns.despine()
 
 ![Fare impact on survival rate]({{site.baseurl}}/assets/img/Fare.PNG){: .align-center}
 
+Looking at all the above plots we can now deduce on what variable that we can use to predict survival
+based on their impact on the same. We see that "Pclass", "Sex", "SibSp", "Parch", "Title", "Fare" have quite a significant
+influence on the target variate hence we can proceed to make use of them in the model
 ## Random Forest 
 This is a supervised kind of learning algorithm. It averages the result from different decision trees i.e an ensemble of 
 decision trees. They combine multiple trees to predict the class of the dataset.
