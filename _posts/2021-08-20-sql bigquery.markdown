@@ -203,7 +203,7 @@ print(speeds_result)
 |22          | 22   |   81064 | 19.573663|
 |23          | 23   |   61318 | 18.730092|
 
-We have incooporated common table expression in the last part. This makes it a bit more clearer
+We have incooporated common table expression(CTE) in the last part. This makes it a bit more clearer
 and easier to debug when dealing with a more complex query.
 
 ## THE END.
