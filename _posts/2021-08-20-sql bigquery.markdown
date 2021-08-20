@@ -13,7 +13,7 @@ we would like to perform some basic SQL queries using python and bigquery << fro
 
 To get an overview of how to create a google cloud account and use jupyter notebook to run queries there is a detailed documentation
 [here](https://cloud.google.com/bigquery/docs/visualize-jupyter#:~:text=In%20the%20Jupyter%20window%2C%20click%20the%20New%20button,that%20lets%20you%20run%20queries%20with%20minimal%20code.){:target="_blank"}.
-The free tare grants a massive 1 TB that resets per month, not as massive anyway if not careful it takes only 
+The free tare grants a massive 1 TB that resets per month, not as massive anyway ,if not careful it takes only 
 a handfull queries to deplete.
 In this notebook we use a query configuration that if a certain limit is hit ,the query is terminated at that point.
 some of the datasets that are publicly available on Google BigQuery 
