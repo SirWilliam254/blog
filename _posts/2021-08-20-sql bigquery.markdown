@@ -54,6 +54,7 @@ table = client.get_table(table_ref)
 # looking at the first few elements of the table
 client.list_rows(table, max_results = 5).to_dataframe()
 ```
+
 |id |	unique_key |	taxi_id |	trip_start_timestamp	| trip_end_timestamp	| c...|
 |---|------------|---------|----------------------------|-------------------|---|
 |0 |	f7ec1bc4ddd0e39531fd5307fca2a0aa46230451 |	3683df8abf7c59bf0e9d46a0de6f2c4ed65b0971fdaa22... |	2019-05-18 22:30:00+00:00	| 2019-05-18 22:30:00+00:00 | c...|
@@ -128,6 +129,7 @@ rides_per_month_result = rides_per_month_query_job.to_dataframe()
 # Viewing the results
 print(rides_per_month_result)
 ```
+
 |id       | month  |num_trips|
 |---------|--------|--------|
 |0 |      1 |         1073338|
