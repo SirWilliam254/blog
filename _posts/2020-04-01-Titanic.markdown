@@ -17,7 +17,6 @@ In this challenge, it is of interest to build a predictive model that answers th
 
 
 <button class="collapsible" id="yaml">Expand</button>
-
     <div class="content" id="yamldata" markdown="1">
 
  ``` python
@@ -33,8 +32,7 @@ for dirname, _, filenames in os.walk('/kaggle/input'):
     for filename in filenames:
         print(os.path.join(dirname, filename))
 ``` 
-
-    </div>
+   </div>
 
 
 
