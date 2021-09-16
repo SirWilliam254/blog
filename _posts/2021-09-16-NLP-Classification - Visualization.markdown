@@ -106,6 +106,8 @@ py.iplot(fig, filename="Ratings")
 
 ![distrib of ratings]({{site.baseurl}}/assets/img/ratings.PNG){: .align-center}
 
+Hmmm, apparently there are alot of positive sentiments ,i.e the 5-star and 4-star are quite many. Its quite apparent that the servings are of acceptable quality.
+
 ## Heatmap 
 We can also view the correlation between the variables.
 
