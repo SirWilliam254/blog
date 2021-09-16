@@ -37,12 +37,13 @@ Viewing the first five rows of the data using ".head()"
 review_data.head()
 ```
 
-index	text	stars	sentiment
-0	Total bill for this horrible service? Over $8G...	1.0	0
-1	I *adore* Travis at the Hard Rock's new Kelly ...	5.0	1
-2	I have to say that this office really has it t...	5.0	1
-3	Went in for a lunch. Steak sandwich was delici...	5.0	1
-4	Today was my second out of three sessions I ha...	1.0	0
+|index|	text|	stars|	sentiment|
+ |-----------------|-------------------|--------------|--------------------|
+|0	|Total bill for this horrible service? Over $8G...|	1.0	|0|
+|1	|I *adore* Travis at the Hard Rock's new Kelly ...|	5.0	|1|
+|2	|I have to say that this office really has it t...|	5.0	|1|
+|3	|Went in for a lunch. Steak sandwich was delici...|	5.0	|1|
+|4	|Today was my second out of three sessions I ha...|	1.0 |0|
 
 ## Visualization
 ### Word Cloud
