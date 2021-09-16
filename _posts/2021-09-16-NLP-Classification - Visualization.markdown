@@ -50,10 +50,62 @@ These shows a representation of the text data as an image made of words.
 Words that are more important or rather more frequent are usually larger. It gives
 us a basic overview of the text data in a visually appealing manner. 
 
+```python
+from wordcloud import WordCloud, STOPWORDS
+stopwords = set(STOPWORDS)
+
+def show_wordcloud(data, title = None):
+    wordcloud = WordCloud(
+        background_color='black',
+        stopwords=stopwords,
+        max_words=200,
+        max_font_size=40, 
+        scale=3,
+        random_state=1 
+).generate(str(data))
+
+    fig = plt.figure(1, figsize=(15, 15))
+    plt.axis('off')
+    if title: 
+        fig.suptitle(title, fontsize=20)
+        fig.subplots_adjust(top=2.3)
+
+    plt.imshow(wordcloud)
+    plt.show()
+
+show_wordcloud(review_data['text'])
+```
+![word cloud]({{site.baseurl}}/assets/img/cloud.PNG){: .align-center}
 
 
+It would also be interesting to see the distribution of the ratings. The ratings for three stars have been droppped since they cannot be of much help as they are neutral. They don't give a strong standpoint with their reviews.
 
-## Correlation 
+```python
+py.init_notebook_mode(connected=True)
+
+cnt_srs = review_data['stars'].value_counts().head()
+trace = go.Bar(
+    y=cnt_srs.index[::-1],
+    x=cnt_srs.values[::-1],
+    orientation = 'h',
+    marker=dict(
+        color=cnt_srs.values[::-1],
+        colorscale = 'reds',
+        reversescale = True
+    ),
+)
+
+layout = dict(
+    title='Distribution of Ratings',
+    )
+data = [trace]
+fig = go.Figure(data=data, layout=layout)
+py.iplot(fig, filename="Ratings")
+```
+
+![distrib of ratings]({{site.baseurl}}/assets/img/ratings.PNG){: .align-center}
+
+## Heatmap 
 We can also view the correlation between the variables.
 
 ```python
@@ -62,8 +114,7 @@ plt.figure(figsize = (10,5))
 sns.heatmap(review_data.corr(), cmap='Greens',annot=True,linewidths=.5)
 ```
 
-
-
+![correlation]({{site.baseurl}}/assets/img/corr.PNG){: .align-center}
 
 ### document vectors
 We will use the first 100 document vectors.
