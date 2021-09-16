@@ -16,29 +16,9 @@ In this challenge, it is of interest to build a predictive model that answers th
 ## Loading relevant libraries
 
 
-<details>
-    <summary>Expand</summary>
-    
-``` python
-import numpy as np # linear algebra
-import pandas as pd # data processing, CSV file Input/Output (e.g. pd.read_csv)
-from sklearn.impute import SimpleImputer
-from sklearn.model_selection import train_test_split
-import matplotlib.pyplot as plt
-import seaborn as sns
-sns.set(style="whitegrid")
-import os
-for dirname, _, filenames in os.walk('/kaggle/input'):
-    for filename in filenames:
-        print(os.path.join(dirname, filename))
-```
-</details>
-
-
-
 <button class="collapsible" id="yaml">Expand</button>
 
-<div class="content" id="yamldata" markdown="1">
+    <div class="content" id="yamldata" markdown="1">
 
  ``` python
 import numpy as np # linear algebra
@@ -54,7 +34,7 @@ for dirname, _, filenames in os.walk('/kaggle/input'):
         print(os.path.join(dirname, filename))
 ``` 
 
-</div>
+    </div>
 
 
 
