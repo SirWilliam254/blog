@@ -15,7 +15,7 @@ While there was some element of luck involved in surviving, it seems some groups
 In this challenge, it is of interest to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 ## Loading relevant libraries
 
- ~~~ python
+ ```python
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file Input/Output (e.g. pd.read_csv)
 from sklearn.impute import SimpleImputer
@@ -27,7 +27,7 @@ import os
 for dirname, _, filenames in os.walk('/kaggle/input'):
     for filename in filenames:
         print(os.path.join(dirname, filename))
-~~~ 
+```
 
 ## Loading the training data
 
