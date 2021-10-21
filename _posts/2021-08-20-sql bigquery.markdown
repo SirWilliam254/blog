@@ -3,7 +3,7 @@ layout: post
 title: SQL "Google BigQuery" + PYTHON .
 date: 2021-08-20 06:30:20 +0300
 description: Querying and visualizing BigQuery data using pandas DataFrames.
-img: sql_bigquery.jpg 
+img: gcpp.jpg 
 fig-caption: # Add figcaption 
 tags: [GCP, Google cloud platform, sql, big data, bigquery]
 ---
