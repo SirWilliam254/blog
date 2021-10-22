@@ -21,6 +21,11 @@ Geospatial data, which is also reffered to as geodata usually consists of locati
 But the first spark of geospatial technology was ignited in 1832 by French cartographer Charles Picquet. 
 
 
+ heatmap                   | by Charles Picquet
+:-------------------------:|:-------------------------:
+![old map]({{site.baseurl}}/assets/img/1832.png)  |  ![old map text]({{site.baseurl}}/assets/img/1832-1.png)
+
+
 ![old map]({{site.baseurl}}/assets/img/1832.png) ![old map text]({{site.baseurl}}/assets/img/1832-1.png)
 
 In the early 1850s, photozincography or as heliozincography was developed at the Ordnance Survey out of a need to reduce large-scale maps more effectively. It was a form of map printing with separate layers. Each layer could visually represent data on the map.
