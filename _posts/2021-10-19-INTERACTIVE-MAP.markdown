@@ -11,10 +11,12 @@ tags: [Geospatial, Data-Science, Machine-Learning]
 Geospatial data, which is also reffered to as geodata usually consists of locational information connected to a dataset. For instance address, city or ZIP code. Geospatial data can also come from Global Positioning System (GPS) data, geospatial satellite imagery, telematics devices, IoT and geotagging
 ## Brief History of Geospatial
 One of the biggest moments in geospatial history was the launch of Google Maps in 2005. It made mapping technology available to a mass audience.
-
+![old map]({{site.baseurl}}/assets/img/geo1.jpg)
 But the seeds for what we know of geospatial technology today were first planted in 1832. During a cholera outbreak in Paris that year, French cartographer Charles Picquet created one of the first heat maps to show where the incidents of illness were concentrated.
 
 When cholera struck London in 1854, physician John Snow built upon the Paris example. In addition to making a map that depicts the location of cholera deaths, he used spatial analysis of the data to show the connection between contaminated water sources and cholera.
+
+
 
 By the early 1900s, photozincography was invented. It was a form of map printing with separate layers. Each layer could visually represent data on the map.
 
