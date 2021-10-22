@@ -21,7 +21,7 @@ Geospatial data, which is also reffered to as geodata usually consists of locati
 But the first spark of geospatial technology was ignited in 1832 by French cartographer Charles Picquet. 
 
 
- heatmap by Charles Picquet | 
+ heatmap by Charles Picquet | ...
 :-------------------------:|:-------------------------:
 ![old map]({{site.baseurl}}/assets/img/1832.png)  |  ![old map text]({{site.baseurl}}/assets/img/1832-1.png)
 
