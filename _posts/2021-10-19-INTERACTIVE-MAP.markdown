@@ -20,9 +20,9 @@ Geospatial data, which is also reffered to as geodata usually consists of locati
 
 But the first spark of geospatial technology was ignited in 1832 by French cartographer Charles Picquet. 
 
-| ![old map]({{site.baseurl}}/assets/img/1832.png) | It was during a cholera outbreak in Paris. A heatmap was created whereby <br /> 
-48 districts of Paris were represented by color gradient according to the percentage <br />
-of deaths from cholera per 1000 inhabitants. This was the first use of  <br />
+| ![old map]({{site.baseurl}}/assets/img/1832.png) | It was during a cholera outbreak in Paris. A heatmap was created whereby 
+48 districts of Paris were represented by color gradient according to the percentage 
+of deaths from cholera per 1000 inhabitants. This was the first use of 
 spatial analysis to gain some insights.|
 
 In the early 1850s, photozincography or as heliozincography was developed at the Ordnance Survey out of a need to reduce large-scale maps more effectively. It was a form of map printing with separate layers. Each layer could visually represent data on the map.
