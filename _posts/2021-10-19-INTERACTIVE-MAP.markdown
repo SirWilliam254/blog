@@ -25,9 +25,6 @@ But the first spark of geospatial technology was ignited in 1832 by French carto
 :-------------------------:|:-------------------------:
 ![old map]({{site.baseurl}}/assets/img/1832.png)  |  ![old map text]({{site.baseurl}}/assets/img/1832-1.png)
 
-
-![old map]({{site.baseurl}}/assets/img/1832.png) ![old map text]({{site.baseurl}}/assets/img/1832-1.png)
-
 In the early 1850s, photozincography or as heliozincography was developed at the Ordnance Survey out of a need to reduce large-scale maps more effectively. It was a form of map printing with separate layers. Each layer could visually represent data on the map.
 
 In the year 1963 Roger Tomlinson coined the term geographic information system (GIS), which he was the pioneer. This was a system that was designed to capture, store, manipulate, analyze, manage and present all the types of geographical data. Which were a form of table maps.
