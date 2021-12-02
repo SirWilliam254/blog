@@ -8,7 +8,7 @@ fig-caption: # Adding figcaption
 tags: [Data-Science, Machine-Learning, NLP]
 ---
 
-Neuro-linguistic programming (NLP), gives computers the ability to understand text and spoken words in much the same way human beings can. It combines computational linguistics—rule-based modeling of human language with statistical, machine learning, and deep learning models.
+Natural Language Processing (NLP), gives computers the ability to understand text and spoken words in much the same way human beings can. It combines computational linguistics—rule-based modeling of human language with statistical, machine learning, and deep learning models.
 
 ## Loading all the necessary packages
 ```python
