@@ -55,18 +55,20 @@ ts_twitter_df %>% select(screenName, created, text) %>% sample_n(5) %>% pander(.
  
  
 
- 
+ ## table
  
  
  |min |Q1 |median |Q3 |max |mean |sd |n |missing|
  |-------|--------|-----|----|----|----|-----|--------|------|
 |0 |2 |4 |8 |200 |6.316 |9.397897 |1000| 0|
 
+## table
 
 |Empirical mean|Theoretical Mean|
 |-----|------|
 |6.473531| 6.475546|
 
+## table
 
 |Empirical sd|Theoretical sd|
 |------|------|
