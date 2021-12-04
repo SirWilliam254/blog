@@ -51,27 +51,6 @@ ts_twitter_df %>% select(screenName, created, text) %>% sample_n(5) %>% pander(.
   |  FlipTheScript8 | 2021-08-10 17:04:33 | RT @OnHerTurf: There's always that one friend <U+0001F485> #OlympicHERstory #TokyoOlympics "https://t.co/hJwHuxzbRM" |                                            
  |   Satchidanand01  | 2021-08-10 18:52:02 |  RT @MinhazMerchant: @shivjiramgupta @IndiaToday Britain 0 gold medals in  #Athletics at #TokyoOlympics <U+0001F947> Australia 0 gold medals in athletic… | 
  
- 
- 
- 
 
- ## table
- 
- 
- |min |Q1 |median |Q3 |max |mean |sd |n |missing|
- |-------|--------|-----|----|----|----|-----|--------|------|
-|0 |2 |4 |8 |200 |6.316 |9.397897 |1000| 0|
-
-## table
-
-|Empirical mean|Theoretical Mean|
-|-----|------|
-|6.473531| 6.475546|
-
-## table
-
-|Empirical sd|Theoretical sd|
-|------|------|
-|0.2975925|0.3020537|
                                          
                                           
