@@ -14,7 +14,7 @@ This is some of the certifications that i have gained through the process and th
 
 ![certificate i]({{site.baseurl}}/assets/img/WilliamMburuPython.png)
 
-![certificate i]({{site.baseurl}}/assets/img/William Mburu - Pandas.png)
+![certificate i]({{site.baseurl}}/assets/img/WilliamMburu - Pandas.png)
 
 ![certificate i]({{site.baseurl}}/assets/img/William Mburu - Data Cleaning.png)
 
