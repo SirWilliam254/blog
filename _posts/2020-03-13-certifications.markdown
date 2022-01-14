@@ -12,7 +12,7 @@ This is some of the certifications that i have gained through the process and th
 
 >“rolling stone gathers no moss.”.
 
-![certificate i]({{site.baseurl}}/assets/img/William Mburu - Python.png)
+![certificate i]({{site.baseurl}}/assets/img/WilliamMburuPython.png)
 
 ![certificate i]({{site.baseurl}}/assets/img/William Mburu - Pandas.png)
 
