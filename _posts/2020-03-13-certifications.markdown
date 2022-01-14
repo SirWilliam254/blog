@@ -14,30 +14,30 @@ This is some of the certifications that i have gained through the process and th
 
 ![certificate i]({{site.baseurl}}/assets/img/WilliamMburuPython.png)
 
-![certificate i]({{site.baseurl}}/assets/img/WilliamMburu - Pandas.png)
+![certificate i]({{site.baseurl}}/assets/img/WilliamMburuPandas.png)
 
-![certificate i]({{site.baseurl}}/assets/img/William Mburu - Data Cleaning.png)
+![certificate i]({{site.baseurl}}/assets/img/WilliamMburuDataCleaning.png)
 
-![certificate i]({{site.baseurl}}/assets/img/William Mburu - Data Visualization.png)
+![certificate i]({{site.baseurl}}/assets/img/WilliamMburuDataVisualization.png)
 
-![certificate i]({{site.baseurl}}/assets/img/William Mburu - Intro to Machine Learning.png)
+![certificate i]({{site.baseurl}}/assets/img/WilliamMburuIntrotoMachineLearning.png)
 
-![certificate i]({{site.baseurl}}/assets/img/William Mburu - Intermediate Machine Learning.png)
+![certificate i]({{site.baseurl}}/assets/img/WilliamMburuIntermediateMachineLearning.png)
 
-![certificate i]({{site.baseurl}}/assets/img/William Mburu - Intro to SQL.png)
+![certificate i]({{site.baseurl}}/assets/img/WilliamMburuIntrotoSQL.png)
 
-![certificate i]({{site.baseurl}}/assets/img/William Mburu - Geospatial Analysis.png)
+![certificate i]({{site.baseurl}}/assets/img/WilliamMburuGeospatialAnalysis.png)
 
-![certificate i]({{site.baseurl}}/assets/img/William Mburu - Intro to AI Ethics.png)
+![certificate i]({{site.baseurl}}/assets/img/WilliamMburuIntrotoAIEthics.png)
 
-![certificate i]({{site.baseurl}}/assets/img/William Mburu - Natural Language Processing.png)
+![certificate i]({{site.baseurl}}/assets/img/WilliamMburuNaturalLanguageProcessing.png)
 
-![certificate i]({{site.baseurl}}/assets/img/William Mburu - Intro to Deep Learning.png)
+![certificate i]({{site.baseurl}}/assets/img/WilliamMburuIntrotoDeepLearning.png)
 
-![certificate i]({{site.baseurl}}/assets/img/William Mburu - Time Series.png)
+![certificate i]({{site.baseurl}}/assets/img/WilliamMburuTimeSeries.png)
 
-![certificate i]({{site.baseurl}}/assets/img/William Mburu - Computer Vision.png)
+![certificate i]({{site.baseurl}}/assets/img/WilliamMburuComputerVision.png)
 
-![certificate i]({{site.baseurl}}/assets/img/William Mburu - Machine Learning Explainability.png)
+![certificate i]({{site.baseurl}}/assets/img/WilliamMburuMachineLearningExplainability.png)
 
 
