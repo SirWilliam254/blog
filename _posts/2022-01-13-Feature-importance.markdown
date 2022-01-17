@@ -25,4 +25,4 @@ repeated and an average is calculated from the same. The method is applied to al
 their importance is rated. We have an output which shows the confidence i.e + or - some value of how the feature 
 affects the prediction accuracy.
 
-[EXAMPLE HERE!](https://sirwilliam254.github.io/Feature-Importance/feat.html)
+[EXAMPLE WITH CODE HERE!](https://sirwilliam254.github.io/Feature-Importance/feat.html)
