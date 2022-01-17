@@ -16,7 +16,7 @@ We are going to take into consideration three methods:
 and
 - SHAP() values
 
-permutation importance
+## permutation importance
 
 As the name permutation suggests, this method shuffles the values in a certain column i.e feature
 and a prediction is made while holding other features as they are. By shuffling the data in such a manner
