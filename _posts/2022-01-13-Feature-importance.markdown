@@ -59,6 +59,8 @@ We see that controlling for absolute distance traveled, the pick up longitude
 has a very small impact on predictions looking at the yielded plot.
 
 ## SHAP
+SHAP Values (an acronym from SHapley Additive exPlanations) break down a prediction to show the impact of each feature.
+Which is usually the average marginal contribution of a feature value over all potential coalitions rather.
 
 [EXAMPLE WITH CODE HERE!](https://sirwilliam254.github.io/Feature-Importance/shap.html)
 
