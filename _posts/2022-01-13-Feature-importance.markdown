@@ -57,3 +57,13 @@ Plotting the absolute distances we have the plot:
 
 We see that controlling for absolute distance traveled, the pick up longitude
 has a very small impact on predictions looking at the yielded plot.
+
+## SHAP
+
+[EXAMPLE WITH CODE HERE!](https://sirwilliam254.github.io/Feature-Importance/shap.html)
+
+Looking at the output below:
+
+![Image3]({{site.baseurl}}/assets/img/one.PNG)
+
+it would be safe to conclude that "number_inpatient" is a really important feature
