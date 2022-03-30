@@ -20,9 +20,9 @@ KPIs better known as key performance indicators is a tool that measures the perf
 - Aid in tracking the progress of teams or individuals by holding each accountable.
 ## Screenshot of Webapp dashboard demonstrating some KPI's on sales.
 
-![screenshot](https://github.com/SirWilliam254/KPI/blob/main/Screenshot%20(115).png)
+![screenshot]({{site.baseurl}}/assets/img/Screenshot%20(115).png)
 
-# Some examples would be
+# Some examples of KPIs would be
 
 Customer, Marketing, sales, Financial and Operational KPIs
 
