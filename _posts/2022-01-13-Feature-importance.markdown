@@ -39,11 +39,11 @@ Looking at the coding example above we see the pdp plot for pick-up longitude ha
 a plot which would suggest that being picked up near the center of the longitude values lowers predicted 
 fares on average, because it means shorter trips on average.
 
-![Image]({{site.baseurl}}/assets/pdp1.PNG)
+![Image]({{site.baseurl}}/assets/img/pdp1.PNG)
 
 We can also create a 2D plot for the features pickup_longitude and dropoff_longitude which yields
 
-![Image2]({{site.baseurl}}/assets/pdp2.PNG)
+![Image2]({{site.baseurl}}/assets/img/pdp2.PNG)
 
 We expect the contours to run along the diagonals. We see that prices increase 
 as we move further up to the upper right side of the plot.
@@ -53,7 +53,7 @@ as we move further up to the upper right side of the plot.
 It would also be interesting to see what kind of a pdp, scaled distance would produce.
 Plotting the absolute distances we have the plot:
 
-![Image2]({{site.baseurl}}/assets/pdp3.PNG)
+![Image2]({{site.baseurl}}/assets/img/pdp3.PNG)
 
 We see that controlling for absolute distance traveled, the pick up longitude
 has a very small impact on predictions looking at the yielded plot.
