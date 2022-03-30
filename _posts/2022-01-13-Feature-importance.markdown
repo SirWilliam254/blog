@@ -53,7 +53,7 @@ as we move further up to the upper right side of the plot.
 It would also be interesting to see what kind of a pdp, scaled distance would produce.
 Plotting the absolute distances we have the plot:
 
-![Image2]({{site.baseurl}}/assets/img/pdp3.PNG)
+![Image3]({{site.baseurl}}/assets/img/pdp3.PNG)
 
 We see that controlling for absolute distance traveled, the pick up longitude
 has a very small impact on predictions looking at the yielded plot.
