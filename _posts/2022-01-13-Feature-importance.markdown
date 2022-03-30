@@ -66,4 +66,4 @@ Looking at the output below:
 
 ![Image3]({{site.baseurl}}/assets/img/one.PNG)
 
-it would be safe to conclude that "number_inpatient" is a really important feature
+it would be safe to conclude that "num_procedures" and "number_inpatient" are quite important features.
