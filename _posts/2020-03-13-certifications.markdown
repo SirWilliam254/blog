@@ -12,6 +12,24 @@ This is some of the certifications that i have gained through the process and th
 
 >“rolling stone gathers no moss.”.
 
+![certificate i]({{site.baseurl}}/assets/img/fa1.jpg)
+
+![certificate i]({{site.baseurl}}/assets/img/fa2.jpg)
+
+![certificate i]({{site.baseurl}}/assets/img/fa3.jpg)
+
+![certificate i]({{site.baseurl}}/assets/img/fa4.jpg)
+
+![certificate i]({{site.baseurl}}/assets/img/fa5.jpg)
+
+![certificate i]({{site.baseurl}}/assets/img/fa6.jpg)
+
+![certificate i]({{site.baseurl}}/assets/img/fa7.jpg)
+
+![certificate i]({{site.baseurl}}/assets/img/fa8.jpg)
+
+![certificate i]({{site.baseurl}}/assets/img/fa9.jpg)
+
 ![certificate i]({{site.baseurl}}/assets/img/WilliamMburuPython.png)
 
 ![certificate i]({{site.baseurl}}/assets/img/WilliamMburuPandas.png)
