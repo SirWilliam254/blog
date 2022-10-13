@@ -7,8 +7,7 @@ img: certifications.jpg
 fig-caption: # Add figcaption (optional)
 tags: [Data-Science, Machine-Learning, kaggle, online, edureka, edx]
 ---
-As data science is a vast subject which has new information being generated everyday it calls for constant learning and self-improvement in the area.
-This is some of the certifications that i have gained through the process and the learning process continues throught ,as the old adage goes 
+As data science is a vast subject which has new information being generated everyday it necessitates continuous learning and self-improvement in the field. These are some of the qualifications that I have amassed as a result of the process, and the learning process continues :: as the old adage goes 
 
 >“rolling stone gathers no moss.”.
 
