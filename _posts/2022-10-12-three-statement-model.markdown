@@ -7,7 +7,6 @@ img: a.jpg # Add image post (optional)
 tags: [finance, model, 3 statement] # add tag
 ---
 
-### What is it?
 
 3 statement modeling is a financial modeling technique used to create a comprehensive financial model of a company. It involves building projections for a company's income statement, balance sheet, and cash flow statement over a period of time, typically 3 to 5 years.
 
