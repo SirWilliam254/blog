@@ -9,7 +9,8 @@ tags: [KPI, Data-Science, Machine-Learning]
 ---
 
 # KPI’s
-KPIs better known as key performance indicators is a tool that measures the performance in regard to a set objective. This helps businesses gain more control and meet milestones and perform better in overall.
+KPIs better known as key performance indicators is a tool that measures the performance in regard to a set objective. This helps businesses gain more control and meet milestones and perform better in overall. It is a metric used to assess an organization's, team's, or individual's performance or progress toward a specific goal or objective. KPIs are used to track progress and identify areas for improvement, and they can be tailored to an organization's specific needs and goals.
+To provide a more complete picture of an organization's performance, KPIs are frequently used in conjunction with other metrics, such as financial statements. They can be used to set and track progress toward specific goals or objectives, and they can be tracked over time to see how performance changes.
 
 ## KPI’s
 
@@ -52,9 +53,21 @@ Financial indicators are indicative of a company's monetary development and stab
 Having good KPIs can make a huge impact on the business and its processes, so how do we set one up.
 
 - Selecting a timeframe, i.e., whether; daily, weekly, monthly, quarterly etc. given the business model.
-- Set up goals that you wish to accomplish given the selected timeframe.
-- Select the KPIs that you wish to deal with, taking into consideration of all key components of your business.
-- Select the most important KPI that you wish to put more emphasis on optimization.
+
+-	Identify your goals and objectives: The first step in setting up KPIs is to identify what you want to achieve. This might include business goals, such as increasing revenue or improving customer satisfaction, or personal goals, such as increasing productivity or improving work-life balance.
+
+-	Identify the key performance indicators that align with your goals: Once you have identified your goals, the next step is to identify the key performance indicators (KPIs) that can help you track your progress towards those goals. These might include financial metrics, such as revenue growth or profitability, or non-financial metrics, such as customer satisfaction or employee retention.
+
 - Establish the metrics that you will need to use in order to demonstrate and measure each trait.
+
+-	Establish baseline values: Before you can begin tracking your KPIs, you'll need to establish baseline values. This will give you a starting point to measure your progress against.
+
+-	Set targets: Once you have established baseline values, the next step is to set targets for each KPI. These targets should be specific, measurable, achievable, relevant, and time-bound (SMART).
+
 - Teamwork; make sure everyone is on the same page and strategize on the best way to strategize.
-- Finally, we need to review and update the KPIs as per the changing business landscape.
+
+- Finally, Monitor and review your KPIs regularly: It's important to regularly track and review your KPIs to see how you are progressing towards your goals. This might involve collecting data, analyzing trends, and making adjustments as needed.
+
+
+
+
