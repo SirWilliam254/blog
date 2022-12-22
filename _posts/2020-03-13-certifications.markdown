@@ -11,9 +11,9 @@ As data science is a vast subject which has new information being generated ever
 
 >“rolling stone gathers no moss.”.
 
-![certificate i]({{site.baseurl}}/assets/img/fmva.jpg)
+![certificate i]({{site.baseurl}}/assets/img/CitiBAnkcompletion_certificate_page-0001.jpg)
 
-![certificate i]({{site.baseurl}}/assets/img/CitiBAnkcompletion_certificate.pdf)
+![certificate i]({{site.baseurl}}/assets/img/fmva.jpg)
 
 ![certificate i]({{site.baseurl}}/assets/img/bi.jpg)
 
