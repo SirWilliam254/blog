@@ -13,6 +13,8 @@ As data science is a vast subject which has new information being generated ever
 
 ![certificate i]({{site.baseurl}}/assets/img/fmva.jpg)
 
+![certificate i]({{site.baseurl}}/assets/img/CitiBAnkcompletion_certificate.pdf)
+
 ![certificate i]({{site.baseurl}}/assets/img/bi.jpg)
 
 ![certificate i]({{site.baseurl}}/assets/img/dsm.jpg)
