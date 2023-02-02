@@ -37,21 +37,11 @@ A company in financial distress is one that is having difficulty meeting its fin
 
 ## What Has happened in the Past
 
-![old map]({{site.baseurl}}/assets/img/past.png)
-
-<table>
-  <tr>
-    <td>
-      <img src="{{site.baseurl}}/assets/img/past.png" alt="image" width="200"/>
-    </td>
-    <td>
 -	Due to declining sales, high debt, and intense competition, ```General Motors``` filed for Chapter 11 bankruptcy protection in 2009.
 -	```Lehman Brothers```, a major investment bank filed for bankruptcy in 2008 due to exposure to subprime mortgage-related securities.
 -	The energy company ```Enron``` declared bankruptcy in 2001 due to widespread accounting fraud and mismanagement of funds.
 -	Due to declining sales and increased competition from online streaming services, the video rental chain ```Blockbuster``` declared bankruptcy in 2010.
-    </td>
-  </tr>
-</table>
+
 
 
 ## Causes of Financial Distress
