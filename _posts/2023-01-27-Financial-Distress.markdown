@@ -3,7 +3,7 @@ layout: post
 title: Financial Distress
 date: 2023-01-27 00:00:00 +0300
 description: Difficulty making Financial obligations in a company.
-img:  # Add image post (optional)
+img: findis.jpg # Add image post (optional)
 tags: [finance, analysis] # add tag
 ---
 
