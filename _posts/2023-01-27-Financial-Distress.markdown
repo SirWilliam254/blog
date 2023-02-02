@@ -23,6 +23,8 @@ A company in financial distress is one that is having difficulty meeting its fin
 
 ## Potential Impacts on a company
 
+![old map]({{site.baseurl}}/assets/img/potential.png)
+
 -	```Cash flow issues: ``` Failure to pay bills, suppliers, and employees on time can lead to strained relationships and a loss of trust.
 
 -	```Reduced creditworthiness: ``` Financial distress can lead to lower credit scores, making it more difficult and expensive for a business to obtain loans or other forms of financing.
@@ -35,12 +37,16 @@ A company in financial distress is one that is having difficulty meeting its fin
 
 ## What Has happened in the Past
 
+![old map]({{site.baseurl}}/assets/img/past.png)
+
 -	Due to declining sales, high debt, and intense competition, ```General Motors``` filed for Chapter 11 bankruptcy protection in 2009.
 -	```Lehman Brothers```, a major investment bank filed for bankruptcy in 2008 due to exposure to subprime mortgage-related securities.
 -	The energy company ```Enron``` declared bankruptcy in 2001 due to widespread accounting fraud and mismanagement of funds.
 -	Due to declining sales and increased competition from online streaming services, the video rental chain ```Blockbuster``` declared bankruptcy in 2010.
 
 ## Causes of Financial Distress
+
+![old map]({{site.baseurl}}/assets/img/causes.png)
 
 -	Declining sales: A decrease in revenue can lead to a shortage of cash, making it difficult for a company to meet its financial obligations.
 -	Increasing debt: High levels of debt can put pressure on a company's cash flow and make it difficult to pay bills and meet debt obligations.
@@ -59,6 +65,8 @@ A company in financial distress is one that is having difficulty meeting its fin
 
 ## How To Prepare and Anticipate
 
+![old map]({{site.baseurl}}/assets/img/prepare.png)
+
 -	Seek professional advice: Working with financial experts, such as Financial Analysts and business advisors, can help a company identify potential financial problems and develop strategies to address them.
 -	Regularly monitoring cash flow, including tracking cash inflows and outflows, can help a company identify potential financial difficulties before they become significant.
 -	Maintain a healthy balance sheet: Maintaining a strong balance sheet, with low levels of debt and sufficient liquidity, can provide a cushion against financial difficulties.
@@ -71,5 +79,7 @@ A company in financial distress is one that is having difficulty meeting its fin
 -	Stay informed about market trends: Staying informed about market trends and industry developments can help a company identify potential threats and take proactive measures to mitigate them.
 
 ## Summary
+
+![old map]({{site.baseurl}}/assets/img/summary.png)
 
 A company in financial distress is unable to meet its financial obligations.  Dropping sales, high levels of debt, increased costs, poor cash flow management, and unexpected events are all common causes of financial distress. Financial distress can have serious consequences, such as high employee turnover rates, difficulty obtaining financing, and even bankruptcy. Companies can avoid financial distress by monitoring cash flow, keeping a healthy balance sheet, managing costs, diversifying revenue streams, implementing effective risk management strategies, seeking professional advice, and planning for unexpected events. Companies that follow these steps can reduce the risk of financial distress and maintain long-term financial stability.
