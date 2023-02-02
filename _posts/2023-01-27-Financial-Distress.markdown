@@ -23,7 +23,7 @@ A company in financial distress is one that is having difficulty meeting its fin
 
 ## Potential Impacts on a company
 
-![old map]({{site.baseurl}}/assets/img/potential.png)
+![]({{site.baseurl}}/assets/img/potential.png)
 
 -	```Cash flow issues: ``` Failure to pay bills, suppliers, and employees on time can lead to strained relationships and a loss of trust.
 
