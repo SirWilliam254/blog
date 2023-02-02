@@ -46,10 +46,6 @@ A company in financial distress is one that is having difficulty meeting its fin
 
 ## Causes of Financial Distress
 
-<center>
-![old map]({{site.baseurl}}/assets/img/causes.png)
-</center>
-
 -	Declining sales: A decrease in revenue can lead to a shortage of cash, making it difficult for a company to meet its financial obligations.
 -	Increasing debt: High levels of debt can put pressure on a company's cash flow and make it difficult to pay bills and meet debt obligations.
 -	High operating costs: High overhead expenses such as salaries, rent, and utilities can put a strain on a company's financial resources.
@@ -66,10 +62,6 @@ A company in financial distress is one that is having difficulty meeting its fin
 -	Exchange rate fluctuations: Changes in exchange rates can increase the cost of imports and decrease the value of exports, negatively impacting a company's financial performance.
 
 ## How To Prepare and Anticipate
-
-<center>
-![old map]({{site.baseurl}}/assets/img/prepare.png)
-</center>
 
 -	Seek professional advice: Working with financial experts, such as Financial Analysts and business advisors, can help a company identify potential financial problems and develop strategies to address them.
 -	Regularly monitoring cash flow, including tracking cash inflows and outflows, can help a company identify potential financial difficulties before they become significant.
