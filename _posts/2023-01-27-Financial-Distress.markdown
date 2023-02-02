@@ -7,8 +7,6 @@ img: findis.jpg # Add image post (optional)
 tags: [finance, analysis] # add tag
 ---
 
-# Financial Distress.
-
 80% of Financial Distress can be accounted for by the lack of preparation and anticipation.
 
 
