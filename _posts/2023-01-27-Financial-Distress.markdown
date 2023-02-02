@@ -46,7 +46,9 @@ A company in financial distress is one that is having difficulty meeting its fin
 
 ## Causes of Financial Distress
 
+<center>
 ![old map]({{site.baseurl}}/assets/img/causes.png)
+</center>
 
 -	Declining sales: A decrease in revenue can lead to a shortage of cash, making it difficult for a company to meet its financial obligations.
 -	Increasing debt: High levels of debt can put pressure on a company's cash flow and make it difficult to pay bills and meet debt obligations.
@@ -65,7 +67,9 @@ A company in financial distress is one that is having difficulty meeting its fin
 
 ## How To Prepare and Anticipate
 
+<center>
 ![old map]({{site.baseurl}}/assets/img/prepare.png)
+</center>
 
 -	Seek professional advice: Working with financial experts, such as Financial Analysts and business advisors, can help a company identify potential financial problems and develop strategies to address them.
 -	Regularly monitoring cash flow, including tracking cash inflows and outflows, can help a company identify potential financial difficulties before they become significant.
@@ -79,7 +83,5 @@ A company in financial distress is one that is having difficulty meeting its fin
 -	Stay informed about market trends: Staying informed about market trends and industry developments can help a company identify potential threats and take proactive measures to mitigate them.
 
 ## Summary
-
-![old map]({{site.baseurl}}/assets/img/summary.png)
 
 A company in financial distress is unable to meet its financial obligations.  Dropping sales, high levels of debt, increased costs, poor cash flow management, and unexpected events are all common causes of financial distress. Financial distress can have serious consequences, such as high employee turnover rates, difficulty obtaining financing, and even bankruptcy. Companies can avoid financial distress by monitoring cash flow, keeping a healthy balance sheet, managing costs, diversifying revenue streams, implementing effective risk management strategies, seeking professional advice, and planning for unexpected events. Companies that follow these steps can reduce the risk of financial distress and maintain long-term financial stability.
