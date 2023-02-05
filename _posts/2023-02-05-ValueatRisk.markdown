@@ -4,7 +4,7 @@ title: Value at Risk
 date: 2023-02-05 00:00:00 +0300
 description: Value-at-Risk (VaR) is a statistical measure of potential loss of a portfolio over a specified time horizon and confidence level.
 img:  risk.jpg # Add image post (optional)
-tags: [finance, budgeting, forecasting] # add tag
+tags: [finance, VAR, Value at Risk] # add tag
 ---
 
 
@@ -67,7 +67,7 @@ plt.axvline(x=var, color='red', label='VaR')
 plt.legend()
 plt.show()
 ```
-This code first loads stock price data from arch package to a Pandas DataFrame. The returns for the stock are calculated as the percentage change in the adjusted close price. The ```np.percentile``` function is used to calculate the VaR for a specified confidence level (in this case, 5%). The VaR is calculated as the quantile that corresponds to the specified confidence level. Finally, a histogram of the returns is plotted, and the VaR is indicated with a red vertical line.
+This code first loads stock price data from arch package to a Pandas DataFrame. The returns for the stock are calculated as the percentage change in the adjusted close price. The ```np.percentile``` function is used to calculate the VaR for a specified confidence level (in this case, 95%). The VaR is calculated as the quantile that corresponds to the specified confidence level. Finally, a histogram of the returns is plotted, and the VaR is indicated with a red vertical line.
 
 The code above yields a VAR of 1.8643329744495285, which represents the threshold value below which the portfolio is expected to incur losses with a confidence of 95%.
 
