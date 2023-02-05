@@ -16,19 +16,19 @@ There are several methods to calculate VaR, including the Variance-Covariance Me
 
 ## Methodologies
 
-```Historical simulation:``` This method uses historical data to simulate future returns and calculates the VaR based on the worst losses over the specified time horizon and confidence level.
-```Variance-covariance method:``` This method assumes a normal distribution of returns and calculates VaR based on the portfolio's mean and standard deviation.
-```Monte Carlo simulation:``` This method uses statistical simulations to generate random future returns based on historical data and calculates the VaR based on the worst losses over the specified time horizon and confidence level.
-```Extreme value theory:``` This method assumes that the distribution of returns is not normal and uses statistical models to estimate the likelihood of extreme losses.
-```Parametric methods:``` These methods assume a specific distribution of returns and use that distribution to estimate VaR. For example, the variance-covariance method assumes a normal distribution, while the historical simulation method does not make any assumptions about the distribution of returns.
-```Modified VaR (CVaR):``` This method is a variation of VaR that takes into account the expected loss in addition to the potential loss. CVaR provides a more comprehensive estimate of portfolio risk than VaR alone.
-```Filtered Historical Simulation (FHS): ```This method combines the benefits of historical simulation and Monte Carlo simulation, by using a historical dataset to estimate the distribution of returns and then generating simulations based on that distribution.
-```Exponentially Weighted Moving Average (EWMA):``` This method uses a weighted average of past returns to estimate the mean and volatility of returns, which are then used to calculate VaR.
-```Implied Volatility Method:``` This method uses option prices to estimate the implied volatility of the underlying assets and then uses that information to calculate VaR.
-```Kernel Density Estimation (KDE):``` This method uses a non-parametric approach to estimate the distribution of returns and calculate VaR based on that distribution.
-```Backtesting:``` This method uses historical data to validate the accuracy of VaR calculations by comparing the estimated VaR with actual losses.
-```Incremental VaR (IVaR):``` This method calculates VaR incrementally, by considering the impact of each trade on the portfolio's VaR.
-```Hybrid methods:``` These methods combine two or more of the above methodologies to estimate VaR.
+- ```Historical simulation:``` This method uses historical data to simulate future returns and calculates the VaR based on the worst losses over the specified time horizon and confidence level.
+- ```Variance-covariance method:``` This method assumes a normal distribution of returns and calculates VaR based on the portfolio's mean and standard deviation.
+- ```Monte Carlo simulation:``` This method uses statistical simulations to generate random future returns based on historical data and calculates the VaR based on the worst losses over the specified time horizon and confidence level.
+- ```Extreme value theory:``` This method assumes that the distribution of returns is not normal and uses statistical models to estimate the likelihood of extreme losses.
+- ```Parametric methods:``` These methods assume a specific distribution of returns and use that distribution to estimate VaR. For example, the variance-covariance method assumes a normal distribution, while the historical simulation method does not make any assumptions about the distribution of returns.
+- ```Modified VaR (CVaR):``` This method is a variation of VaR that takes into account the expected loss in addition to the potential loss. CVaR provides a more comprehensive estimate of portfolio risk than VaR alone.
+- ```Filtered Historical Simulation (FHS): ```This method combines the benefits of historical simulation and Monte Carlo simulation, by using a historical dataset to estimate the distribution of returns and then generating simulations based on that distribution.
+- ```Exponentially Weighted Moving Average (EWMA):``` This method uses a weighted average of past returns to estimate the mean and volatility of returns, which are then used to calculate VaR.
+- ```Implied Volatility Method:``` This method uses option prices to estimate the implied volatility of the underlying assets and then uses that information to calculate VaR.
+- ```Kernel Density Estimation (KDE):``` This method uses a non-parametric approach to estimate the distribution of returns and calculate VaR based on that distribution.
+- ```Backtesting:``` This method uses historical data to validate the accuracy of VaR calculations by comparing the estimated VaR with actual losses.
+- ```Incremental VaR (IVaR):``` This method calculates VaR incrementally, by considering the impact of each trade on the portfolio's VaR.
+- ```Hybrid methods:``` These methods combine two or more of the above methodologies to estimate VaR.
 
 ## Few Instances in Python
 
