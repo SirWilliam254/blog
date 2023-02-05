@@ -209,4 +209,3 @@ print(speeds_result)
 We have incooporated common table expression(CTE) in the last part. This makes it a bit more clearer
 and easier to debug when dealing with a more complex query.
 
-## THE END.
