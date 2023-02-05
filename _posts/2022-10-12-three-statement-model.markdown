@@ -43,8 +43,11 @@ To build a 3 statement model, you'll need to gather financial data for the compa
 -	Build the Cash Flow Statement: The cash flow statement provides information on a company's inflows and outflows of cash over a specific period of time. To create the cash flow statement, start by listing the company's cash inflows, such as operating activities and investments, and subtracting its cash outflows, such as financing activities and investments.
 -	Forecast Future Financial Results: The 3-statement model is often used to forecast future financial results, based on past performance and current trends. To do this, use a spreadsheet program, such as Excel, to create projections for key metrics such as sales, expenses, and cash flows.
 -	Validate and Test the Model: Once the model is complete, validate and test the model to ensure that it is accurate and provides meaningful results. This may involve reviewing the assumptions and projections, comparing the results to actual financial data, and making adjustments as needed.
-NB:
+
+
+### NB:
 It would also be necessary to create a supporting schedule for Property Plant & Equipment (PP&E) and Retained Earnings.
+
 
 PP&E:
 Net Property, Plant, and Equipment (PPE) is calculated as the total cost of PPE less accumulated depreciation.
