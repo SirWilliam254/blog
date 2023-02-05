@@ -18,21 +18,21 @@ To build a 3 statement model, you'll need to gather financial data for the compa
 
 ### How its Helps investors and buyers
 
--	Helps to understand a company's financial position: By building a 3 statement model, investors and buyers can gain a more comprehensive understanding of a company's financial position, including its profitability, liquidity, and financial stability.
+-	```Helps to understand a company's financial position:``` By building a 3 statement model, investors and buyers can gain a more comprehensive understanding of a company's financial position, including its profitability, liquidity, and financial stability.
 
--	Facilitates financial analysis: 3 statement modeling can help investors and buyers to perform a range of financial analyses, including ratio analysis, discounted cash flow analysis, and scenario analysis. These analyses can provide valuable insights into a company's financial performance and potential returns.
+-	```Facilitates financial analysis:``` 3 statement modeling can help investors and buyers to perform a range of financial analyses, including ratio analysis, discounted cash flow analysis, and scenario analysis. These analyses can provide valuable insights into a company's financial performance and potential returns.
 
--	Improves decision making: By providing a more detailed view of a company's financials, 3 statement modeling can help investors and buyers to make more informed decisions about whether to invest in or acquire a company. It can also help to identify potential risks or challenges that the company may face in the future.
+-	```Improves decision making:``` By providing a more detailed view of a company's financials, 3 statement modeling can help investors and buyers to make more informed decisions about whether to invest in or acquire a company. It can also help to identify potential risks or challenges that the company may face in the future.
 
--	Facilitates negotiations: 3 statement modeling can also be useful in negotiations, as it can provide a basis for discussing the financial terms of an investment or acquisition. It can also help to identify areas where adjustments or concessions may be necessary.
+-	```Facilitates negotiations:``` 3 statement modeling can also be useful in negotiations, as it can provide a basis for discussing the financial terms of an investment or acquisition. It can also help to identify areas where adjustments or concessions may be necessary.
 
 ## Why Accurate Financial Projections are Prudent
 
--	Planning and Decision-Making: Financial projections help companies plan for the future and make informed decisions. By projecting future financial results, companies can determine the resources they need to allocate to different activities and investments, and adjust their plans accordingly.
--	Raising Capital: Accurate financial projections are often required when a company is seeking to raise capital. Investors, lenders, and other stakeholders want to see a company's future financial prospects and the basis for their projections.
--	Managing Risk: Financial projections help companies identify and manage financial risks. By projecting future financial results, companies can identify potential challenges and adjust their plans accordingly.
--	Monitoring Progress: Financial projections provide a benchmark for companies to track their progress towards their financial goals. By regularly comparing actual results to projections, companies can identify trends and make adjustments to their plans as needed.
--	Allocating Resources: Financial projections help companies allocate their resources effectively. By projecting future financial results, companies can determine the resources they need to allocate to different activities and investments, and adjust their plans accordingly.
+-	```Planning and Decision-Making:``` Financial projections help companies plan for the future and make informed decisions. By projecting future financial results, companies can determine the resources they need to allocate to different activities and investments, and adjust their plans accordingly.
+-	```Raising Capital:``` Accurate financial projections are often required when a company is seeking to raise capital. Investors, lenders, and other stakeholders want to see a company's future financial prospects and the basis for their projections.
+-	```Managing Risk:``` Financial projections help companies identify and manage financial risks. By projecting future financial results, companies can identify potential challenges and adjust their plans accordingly.
+-	```Monitoring Progress:``` Financial projections provide a benchmark for companies to track their progress towards their financial goals. By regularly comparing actual results to projections, companies can identify trends and make adjustments to their plans as needed.
+-	```Allocating Resources:``` Financial projections help companies allocate their resources effectively. By projecting future financial results, companies can determine the resources they need to allocate to different activities and investments, and adjust their plans accordingly.
 
 
 ## How to create a 3-statement model
