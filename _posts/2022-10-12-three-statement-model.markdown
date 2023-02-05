@@ -3,7 +3,7 @@ layout: post
 title: 3-Statement Model
 date: 2022-10-12 00:00:00 +0300
 description: The three statement financial valuation model.
-img: statement.jpg # Add image post (optional)
+img: statement.png # Add image post (optional)
 tags: [finance, model, 3 statement] # add tag
 ---
 
