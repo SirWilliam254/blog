@@ -10,7 +10,7 @@ tags: [Data-Science, Machine-Learning]
 Hello World.
 
 
-"Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step indeed", a wise man coined. This marks my first step into the journey of becoming a competent Machine learning Engineer.
+"Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step indeed", a wise man coined. This marks my first step into the journey of becoming a competent Data Analyst.
 
 ## The Future
 Our world is gradually evolving to become more technology reliant, and one of the technologies expected to revolutionize the future is machine leaning.
@@ -32,9 +32,7 @@ rather than boring and unproductive repetitive tasks.
 Having recently completed my bachelor’s degree in Science (Statistics and Programming). I believe this will serve me as a solid foundation to venturing into the world of data science, machine learning and AI.
 
 
-Working on a project alone can be hectic and not quite as rewarding. Thus this projects I will be working side by side with a colleague in the same field, who goes by the name Ian Mureithi. So as to maximize productivity and have different perspectives towards any problem.
-We will be working mostly with; Medical data, Time series + financial data and data from sensors.
-
+Most of the projects will encompass but not limited to finance, time series and geospatial analytics.
 
 The main technologies that we will be incorporating:
 * R-Studio
@@ -45,5 +43,5 @@ The main technologies that we will be incorporating:
 
 This blog marks the beginning of that journey.
 
-So help us God.
+So help me God.
 
