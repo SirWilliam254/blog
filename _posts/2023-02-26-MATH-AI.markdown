@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Math AI
-date: 2023-01-27 00:00:00 +0300
+date: 2023-02-26 00:00:00 +0300
 description: Mathematics simplified
-img:  mathai.png# Add image post (optional)
+img:  mathai.png # Add image post (optional)
 tags: [mathematics, ai] # add tag
 ---
 
