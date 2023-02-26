@@ -7,7 +7,7 @@ img:  mathai.png # Add image post (optional)
 tags: [mathematics, ai] # add tag
 ---
 
-# Financial Distress.
+# MATH AI.
 
 Mathematics is a very interesting faculty which has a tremendous effect on the productivity and value creation in this mandane world that we live in.
 
