@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TIME SERIES
+title: Time Series Analysis
 date: 2023-03-03 00:00:00 +0300
 description: time series analysis
 img:  tseries.png# Add image post (optional)
