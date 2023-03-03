@@ -3,7 +3,7 @@ layout: post
 title: Time Series Analysis
 date: 2023-03-03 00:00:00 +0300
 description: time series analysis
-img:  tseries.png# Add image post (optional)
+img:  timeseriiies.jpg# Add image post (optional)
 tags: [timeseries, finance] # add tag
 ---
 
