@@ -56,11 +56,11 @@ Data that is gathered over time at regular intervals are analyzed using the stat
 
 ![]({{site.baseurl}}/assets/img/seans.png)
 
-- `Cyclical`, cyclical patterns are similar to seasonality, but they occur over a longer time frame and may not have a fixed interval. For example, business cycles that last several years can exhibit cyclical patterns.
+- `Cyclicality`, cyclical patterns are similar to seasonality, but they occur over a longer time frame and may not have a fixed interval. For example, business cycles that last several years can exhibit cyclical patterns.
 
 ![]({{site.baseurl}}/assets/img/cycli.png)
 
-- `Irregular`, irregular patterns are random fluctuations that cannot be explained by a trend, seasonality, or cyclical pattern. They can be caused by unpredictable events, measurement errors, or other factors.
+- `Irregularity`, irregular patterns are random fluctuations that cannot be explained by a trend, seasonality, or cyclical pattern. They can be caused by unpredictable events, measurement errors, or other factors.
 
 ![]({{site.baseurl}}/assets/img/irregul.png)
 
