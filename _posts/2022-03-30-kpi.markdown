@@ -68,6 +68,6 @@ Having good KPIs can make a huge impact on the business and its processes, so ho
 
 - Finally, Monitor and review your KPIs regularly: It's important to regularly track and review your KPIs to see how you are progressing towards your goals. This might involve collecting data, analyzing trends, and making adjustments as needed.
 
-
+[Live Dashboard](https://sirwilliam254-streamlit-math-app-home-iytq6c.streamlit.app/KPIs)
 
 
