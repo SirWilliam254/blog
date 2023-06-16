@@ -17,6 +17,6 @@ Our math AI app is designed to streamline the work of engineers, scientists, and
 
 One of the most exciting features of our math AI app is its ability to learn and adapt to user preferences. As users input more data and equations, the app's algorithms become more accurate and efficient, allowing users to solve increasingly complex problems with ease.
 
-[MATH APP](https://sirwilliam254-streamlit-math-app-home-iytq6c.streamlit.app/)
+[MATH APP](https://mathai.streamlit.app/)
 
-[FINANCE APP](https://sirwilliam254-finance-streamlit-app-home-424o31.streamlit.app/)
+[FINANCE APP](https://financea.streamlit.app/)
