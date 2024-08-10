@@ -89,12 +89,12 @@ Let's calculate profits based on selling 5 units at the end of each period.
 
 The following table summarizes the profits for FIFO and AVCO in both inflationary and deflationary periods:
 
-| Period          | Method | COGS | Revenue | Profit |
-|-----------------|--------|------|---------|--------|
-| Inflationary FIFO| $70    | $200  | $130   |
-| Inflationary AVCO| $90   | $200  | $110   |
-| Deflationary FIFO| $120   | $200 | $80    |
-| Deflationary AVCO| $90   | $200  | $110   |
+| Period   | Method | COGS | Revenue | Profit |
+|------------|-----|--------|------|---------|--------|
+| Inflationary | FIFO| $70    | $200  | $130   |
+| Inflationary | AVCO| $90   | $200  | $110   |
+| Deflationary | FIFO| $120   | $200 | $80    |
+| Deflationary | AVCO| $90   | $200  | $110   |
 
 ## Conclusion
 
